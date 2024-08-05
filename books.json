@@ -1,0 +1,34 @@
+{
+    "Harry Potter and the Philosophers Stone": {
+        "author": "J.K Rowling",
+        "genre": "Fantasy"
+    },
+    "The Adventures of Huckleberry Finn": {
+        "author": "Mark Twain",
+        "genre": "Classic"
+    },
+    "The Song of Achilles": {
+        "author": "Madeline Miller",
+        "genre": "Historical Fiction"
+    },
+    "It: A Novel": {
+        "author": "Stephen King",
+        "genre": "Horror"
+    },
+    "The Fault in Our Stars": {
+        "author": "John Green",
+        "genre": "Romance"
+    },
+    "Tiger, Tiger: His Life, As It's Never Been Told Before": {
+        "author": "James Patterson",
+        "genre": "Biography"
+    },
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
+        "author": "James Clear",
+        "genre": "Self-Improvement"
+    },
+    "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems": {
+        "author": "Martin Kleppmann",
+        "genre": "Education"
+    }
+}
