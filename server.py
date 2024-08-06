@@ -20,7 +20,6 @@ def microserviceA():
     context = zmq.Context()
     socket = context.socket(zmq.REP)
     socket.bind("tcp://*:5555")
-    # socket.setsockopt(zmq.RCVTIMEO, 1000)
 
     print("Server started. Waiting for requests...")
     try:

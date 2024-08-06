@@ -6,7 +6,7 @@ context = zmq.Context()
 socket = context.socket(zmq.REQ)
 socket.connect("tcp://localhost:5555")
 
-message = input("Type 1 to get a random book recommendation or '/q' to quit")
+message = input("Type 1 to get a random book recommendation or '/q' to quit\n")
 
 # Client terminates the connection if message == '/q'
 while True:
