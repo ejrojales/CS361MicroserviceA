@@ -6,3 +6,5 @@ After the socket connection has been made between the microservice and the main 
 
 ## Response
 After the request has been made, the main program should use recv_string() to receive any response from the microservice.
+
+![Alt text](/UMLDiagram.png "UML Sequence Diagram")
